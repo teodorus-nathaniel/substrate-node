@@ -1,4 +1,4 @@
-Note: For viewing changes from the template, see NEW-BRANCHES.md
+Note: For viewing changes from the template, see [NEW-BRANCHES.md](./NEW-BRANCHES.md)
 
 # Substrate Node Template
 
